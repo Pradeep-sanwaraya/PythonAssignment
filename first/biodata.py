@@ -1,0 +1,5 @@
+name=input("enter your name")
+age=int(input("enter your age"))
+phone=int(input("enter your phone"))
+print("---bio data---")
+print(f"Name:{name}\nage:{age}\nphone:{phone}")
